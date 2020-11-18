@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+## 🌱🌱 learning Data Analytics and AI
+## 🌱🌱 blog : lheon.tistory.com
+## 🌱🌱 contact : gjstn0308@naver.com
+## I'm junior of junior So, please help me
 <!--
 **heonsooo/heonsooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
