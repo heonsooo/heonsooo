@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🌱 learning Data Analytics and AI
+### 🌱 learning Data Science and AI
 ### 🌱 blog : https://lheon.tistory.com/
 ### ⚡ I'm junior of junior So, please help me
 ### 📫 contact : gjstn0308@naver.com
