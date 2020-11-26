@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🌱 learning Data Science and AI
 ### 🌱 blog : https://lheon.tistory.com/
-### ⚡ I want to be a junior engineer 👨‍💻 So, please help me
+### ⚡I would be a junior engineer 👨‍💻 So.. please help me
 ### 📫 contact : gjstn0308@naver.com
 <!--
 **heonsooo/heonsooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
