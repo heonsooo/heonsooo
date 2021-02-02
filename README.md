@@ -1,6 +1,7 @@
 ### Hi there 👋
-### 🌱 learning Data Science and AI
+### 🌱 learning Data Science and AI 
 ### 🌱 blog : https://lheon.tistory.com/
+##### Learn By Doning📌
 ##### No Silver Bullet📌
 
 <!--
