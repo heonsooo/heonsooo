@@ -2,7 +2,7 @@
 ### 🌱 learning Data Science and AI 
 ### 🌱 blog : https://lheon.tistory.com/
 ##### Learn By Doning📌
-##### No Silver Bullet📌
+##### Done is Better Than perfect📌
 
 <!--
 **heonsooo/heonsooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
