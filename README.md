@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🌱 learning Data Science and AI 
 ### 🌱 blog : https://lheon.tistory.com/
-##### Learn By Doning📌
+##### Learn By Doing📌
 ##### Done is Better Than perfect📌
 
 <!--
