@@ -1,4 +1,5 @@
 ### Hi there 👋
+<! -- FrontEnd Dev -> 
 <!-- ### 🌱 learning Data Science and AI  -->
 <!-- ### 🌱 blog : https://lheon.tistory.com/ -->
 <!--##### Learn By Doing📌                    -->
